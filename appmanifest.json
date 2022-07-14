@@ -1,0 +1,16 @@
+{
+	"name": "Youtube Downloader",
+	"short_name": "Youtube Downloader",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon.png",
+			"sizes": "60x60",
+			"type": "image/png"
+		}
+	]
+}
